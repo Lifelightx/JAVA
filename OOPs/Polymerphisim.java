@@ -1,8 +1,8 @@
 //polymerphism: same function is used to perform different operations
 
 //types of polymerphism
-//1.function overloading  (run time)
-//2.function overriding (compile time)
+//1.function overloading  (compile time)
+//2.function overriding  (run time)
 
 import java.util.Scanner;
 
